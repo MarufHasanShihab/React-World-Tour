@@ -1,0 +1,21 @@
+.country{
+    border: 2px solid fuchsia;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+}
+button{
+    padding: 15px 20px;
+    background-color: fuchsia;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.visited{
+    background-color: sandybrown;
+}
